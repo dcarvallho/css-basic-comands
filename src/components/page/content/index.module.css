@@ -1,0 +1,13 @@
+.contentGradient {
+    height: 350px;
+    width: 350px;
+    background-image: linear-gradient(to right, red, blue);
+}
+
+.firstContent {
+    display: flex;
+}
+
+.content {
+    padding: 0 15rem;
+}

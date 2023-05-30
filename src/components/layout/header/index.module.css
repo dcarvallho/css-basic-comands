@@ -1,0 +1,13 @@
+.header {
+    height: 620px;
+    width: 96%;
+    background-color: gray;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3.5rem;
+}
+
+.content {
+    margin: auto;
+}
