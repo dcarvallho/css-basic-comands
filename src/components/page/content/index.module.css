@@ -1,13 +1,32 @@
+.firstContent {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.secondContent {
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.shadownContent {
+    height: 300px;
+    width: 300px;
+    margin-right: 1rem;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px black;
+}
+
+.shadownContent h2 {
+    text-shadow: 6px 6px 5px blue;
+}
+
 .contentGradient {
-    height: 350px;
-    width: 350px;
+    height: 300px;
+    width: 300px;
+    margin-right: 1rem;
     background-image: linear-gradient(to right, red, blue);
 }
 
-.firstContent {
-    display: flex;
-}
-
 .content {
-    padding: 0 15rem;
+    padding: 0 20rem;
 }
